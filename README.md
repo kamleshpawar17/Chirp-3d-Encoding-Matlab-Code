@@ -16,7 +16,7 @@ Run setup.m to set all the required paths and dependencies. After installation R
 5. MIP_CS_F: SWI processing and Minimmum intensity projection for accelerated Fourier encoding.
 6. MIP_CS_C: SWI processing and Minimmum intensity projection for accelerated Chirp encoding.
 
-The data for running all the codes (1-6) is around (1 GB) and available at: [link](https://drive.google.com/drive/folders/1FKhOIK9nDyfuqrDC_O8JaxmLYiAF6ESK?usp=sharing)
+The data for running all the codes (1-6) is around (1 GB) and available at: [link](https://bridges.monash.edu/ndownloader/files/24163349)
 
 The raw k-space data (10 GB) is available at: [link](https://monash.figshare.com/articles/Chirp-Encoding-3D-K-Space-Data/7640453)
 
